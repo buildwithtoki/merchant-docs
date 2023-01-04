@@ -20,6 +20,21 @@ We then specifically add the Isolated Spending Module to the isolated-product pa
 
 We then add the Price Mask to the isolated-product page and the isolated-collection page.
 
+```
+//    <div class="toki-price-tag-mask">
+    {% raw %}
+{% for collection in product.collections %}
+      <div
+        data-collectionId="{{ collection.id }}"
+        data-moneyPrice="{{ money_price }}"
+        data-price="{{ price }}"
+      >
+      </div>
+    {% endfor %}
+{% endraw %}  
+    </div>
+```
+
 We customize both to our liking.&#x20;
 
 And voila!
