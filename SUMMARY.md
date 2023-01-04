@@ -25,7 +25,7 @@
 * [🥳 Redemption (aka Redeem)](for-brands-communities/redemption-aka-redeem/README.md)
   * [🌟 Reward Tiers](for-brands-communities/redemption-aka-redeem/reward-tiers.md)
   * [🦊 Connect Eth/Polygon NFTs to Reward Tiers](for-brands-communities/redemption-aka-redeem/connect-eth-polygon-nfts-to-reward-tiers.md)
-  * [🔆 \*Reward an NFT for unlocking a Reward Tier](for-brands-communities/redemption-aka-redeem/reward-an-nft-for-unlocking-a-reward-tier.md)
+  * [🔆 Reward an NFT for unlocking a Reward Tier](for-brands-communities/redemption-aka-redeem/reward-an-nft-for-unlocking-a-reward-tier.md)
   * [⏱ Spending Rules](for-brands-communities/redemption-aka-redeem/spending-rules.md)
 * [🥳 Cross sell](for-brands-communities/cross-sell/README.md)
   * [😋 Discounting](for-brands-communities/cross-sell/discounting.md)
@@ -37,7 +37,7 @@
   * [💭 Redemption Module](for-brands-communities/onsite-design/redemption-module.md)
   * [🏁 Token Notification](for-brands-communities/onsite-design/token-notification.md)
   * [⚖ Tiers Module](for-brands-communities/onsite-design/tiers-module.md)
-  * [🏄♂ Activities Module](for-brands-communities/onsite-design/activities-module.md)
+  * [🏄♂ 🏄♂ Activities Module](for-brands-communities/onsite-design/activities-module.md)
   * [🍰 Global Spending Module](for-brands-communities/onsite-design/global-spending-module.md)
   * [🍭 Isolated Spending Module](for-brands-communities/onsite-design/isolated-spending-module.md)
   * [🔣 Discounting Module](for-brands-communities/onsite-design/discounting-module.md)
@@ -53,7 +53,7 @@
 * [🤩 Using Tokens](for-users/using-tokens/README.md)
   * [📎 \*Use Tokens for Rewards](for-users/using-tokens/use-tokens-for-rewards.md)
   * [🤝 Transfer Tokens to Friends](for-users/using-tokens/transfer-tokens-to-friends.md)
-  * [👯♂ Swap Brand Tokens](for-users/using-tokens/swap-brand-tokens.md)
+  * [👯♂ 👯♂ Swap Brand Tokens](for-users/using-tokens/swap-brand-tokens.md)
 * [🤑 Token Values](for-users/token-values.md)
 
 ## Additional Info
