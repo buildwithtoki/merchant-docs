@@ -37,7 +37,7 @@
   * [💭 Redemption Module](for-brands-communities/onsite-design/redemption-module.md)
   * [🏁 Token Notification](for-brands-communities/onsite-design/token-notification.md)
   * [⚖ Tiers Module](for-brands-communities/onsite-design/tiers-module.md)
-  * [🏄♂ 🏄♂ Activities Module](for-brands-communities/onsite-design/activities-module.md)
+  * [🏄♂ Activities Module](for-brands-communities/onsite-design/activities-module.md)
   * [🍰 Global Spending Module](for-brands-communities/onsite-design/global-spending-module.md)
   * [🍭 Isolated Spending Module](for-brands-communities/onsite-design/isolated-spending-module.md)
   * [🔣 Discounting Module](for-brands-communities/onsite-design/discounting-module.md)
