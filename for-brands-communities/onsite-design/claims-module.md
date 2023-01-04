@@ -8,6 +8,8 @@ The Claims Module is the core feature which allows your customers to collect the
 
 To implement on an independent page, go to Customize your Theme. Then go to the page you want to customize. You will most likely to create a new template. Once you have done that, go ahead and add the Claims Module block. From here, you can customize the module to your liking. Note that the mp4 file you uploaded with your Digital Asset will be playing in the module- fun!
 
+Blah blah blah blah!
+
 {% embed url="https://www.loom.com/share/8883d8176b4e447b90a7c5e882c76010" %}
 
 Make sure once you have done this to double check that the page you want does have the right template assigned to it. Now, whenever one of your customers is awarded tokens for their actions, they will be able to claim them here!
