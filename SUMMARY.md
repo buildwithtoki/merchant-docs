@@ -52,10 +52,11 @@
 * [🤩 Using Tokens](for-users/using-tokens/README.md)
   * [📎 Use Tokens for Rewards](for-users/using-tokens/use-tokens-for-rewards.md)
   * [🤝 Transfer Tokens to Friends](for-users/using-tokens/transfer-tokens-to-friends.md)
-  * [🍑 Spending Tokens](for-users/using-tokens/spending-tokens.md)
+  * [🍑 Spending Tokens](<for-users/spending-tokens (1).md>)
   * [👯♂ Swap Brand Tokens](for-users/using-tokens/swap-brand-tokens.md)
-* [🍑 \*Sending Tokens to Another Wallet](for-users/spending-tokens.md)
-* [🍑 \*Receiving Tokens from Another Wallet](for-users/spending-tokens-1.md)
+* [🍑 Connecting your Coinbase or Metamask](for-users/spending-tokens.md)
+* [🍑 Copy of \*Sending Tokens to Another Wallet](for-users/spending-tokens-1.md)
+* [🍑 \*Receiving Tokens from Another Wallet](for-users/spending-tokens-2.md)
 * [🤑 Token Values](for-users/token-values.md)
 
 ## Additional Info
