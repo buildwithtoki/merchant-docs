@@ -56,7 +56,7 @@
   * [👯♂ Swap Brand Tokens](for-users/using-tokens/swap-brand-tokens.md)
 * [🐊 Connecting your Coinbase or Metamask](for-users/spending-tokens.md)
 * [🍇 Sending Tokens to Another Wallet](for-users/spending-tokens-1.md)
-* [🍑 Receiving Tokens from Another Wallet](for-users/spending-tokens-2.md)
+* [🎓 Receiving Tokens from Another Wallet](for-users/spending-tokens-2.md)
 * [🤑 Token Values](for-users/token-values.md)
 
 ## Additional Info
