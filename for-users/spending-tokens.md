@@ -1,4 +1,4 @@
-# 🍑 Spending Tokens
+# 🍑 \*Sending Tokens to Another Wallet
 
 Tokens can actually be spent for steep discounts or free products. If the opportunity is available, then you will see one of the following modules either&#x20;
 
