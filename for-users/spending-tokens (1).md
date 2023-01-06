@@ -1,14 +1,20 @@
 # 🍑 Connecting your Coinbase or Metamask
 
-**Overview**
+Tokens can actually be spent for steep discounts or free products. If the opportunity is available, then you will see one of the following modules either&#x20;
 
-As mentioned in using tokens for rewards, connecting your Coinbase and/or Metamask is important in receiving max benefits. Many brands on our platforms work together to give you discounts related to one another.
+1\) On a product page or on a check out page.
 
-**How to**
+![](<../.gitbook/assets/Screenshot 2023-01-01 at 11.10.00 AM.png>)
 
-To connect your wallets, you are going to go to your **Profile** and press **Wallet Connect**. From there, you will be directed to set up which wallets and which chains are appropriate for the asset you want to reap benefits from. We suggest just setting up all at once to make your life easier in the future.
+Alternatively, the brand might have their own Token Spending shop full of products that can be purchased with tokens. To see if this is possible, reach out to the brand or look for a unique collection page on their site like this Exclusive Members Shop where you can get products for free with the exchange of DISCOCOINS.
 
-{% embed url="https://www.loom.com/share/ff6a15753a794f8bb5570d86f85bbc2a" %}
+![](<../.gitbook/assets/Screenshot 2022-12-31 at 1.36.32 PM.png>)
 
-Now you can use any onsite redemption or gating module and get perks! You also might occasionally see in the Alliances tab in your Toki wallet that having certain NFTs from other brands gives you perks at said brand. Super cool.
+Using these modules on product pages will give you a discount code to use at check out.
+
+Tokens can also be spent directly within the Toki wallet by going to **Wallet** and then **Spend**.
+
+{% embed url="https://www.loom.com/share/717e0c9adaab4bd099cb9010c86e6ae5" %}
+
+
 

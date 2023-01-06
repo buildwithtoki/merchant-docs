@@ -1,20 +1,13 @@
-# 🍑 Copy of \*Sending Tokens to Another Wallet
+# 🍇 Sending Tokens to Another Wallet
 
-Tokens can actually be spent for steep discounts or free products. If the opportunity is available, then you will see one of the following modules either&#x20;
+**Overview**
 
-1\) On a product page or on a check out page.
+At some point, you might want to take your Toki assets elsewhere. Sounds obvious but before you send tokens to another wallet, you are going to have to connect said wallet. Step backward if you haven't done this yet.
 
-![](<../.gitbook/assets/Screenshot 2023-01-01 at 11.10.00 AM.png>)
+If you have already done this, go ahead and watch this video.
 
-Alternatively, the brand might have their own Token Spending shop full of products that can be purchased with tokens. To see if this is possible, reach out to the brand or look for a unique collection page on their site like this Exclusive Members Shop where you can get products for free with the exchange of DISCOCOINS.
+**How to**
 
-![](<../.gitbook/assets/Screenshot 2022-12-31 at 1.36.32 PM.png>)
+You are going to go to your wallet and **** click **Send.**  After making the selections of your choice, you are going to need to make sure you have imported the token information into your wallet. From there, click send. Please contact us if you have any issues.
 
-Using these modules on product pages will give you a discount code to use at check out.
-
-Tokens can also be spent directly within the Toki wallet by going to **Wallet** and then **Spend**.
-
-{% embed url="https://www.loom.com/share/717e0c9adaab4bd099cb9010c86e6ae5" %}
-
-
-
+{% embed url="https://www.loom.com/share/1263e33f3dd5468184fb088c2408bbaa" %}
