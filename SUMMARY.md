@@ -50,6 +50,8 @@
 * [💰 Holding Tokens](for-users/holding-tokens.md)
 * [😁 Claiming Tokens](for-users/claiming-tokens.md)
 * [🍑 Spending Tokens](for-users/spending-tokens.md)
+* [🍑 \*Sending Tokens to Another Wallet](for-users/spending-tokens-1.md)
+* [🍑 \*Receiving Tokens from Another Wallet](for-users/spending-tokens-2.md)
 * [🤩 Using Tokens](for-users/using-tokens/README.md)
   * [📎 \*Use Tokens for Rewards](for-users/using-tokens/use-tokens-for-rewards.md)
   * [🤝 Transfer Tokens to Friends](for-users/using-tokens/transfer-tokens-to-friends.md)
