@@ -16,7 +16,7 @@
 
 * [🙌 Installing Toki](for-brands-communities/installing-toki.md)
 * [⚙ Integrations](for-brands-communities/integrations.md)
-* [🍕 Assets](for-brands-communities/assets.md)
+* [🍕 Credits + Collectibles](for-brands-communities/assets.md)
 * [👁 Issuance (aka Reward)](for-brands-communities/issuance-aka-reward/README.md)
   * [🚴 Activities](for-brands-communities/issuance-aka-reward/activities.md)
   * [🧞 Klaviyo-Specific Activities](for-brands-communities/issuance-aka-reward/klaviyo-specific-activities.md)
