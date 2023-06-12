@@ -2,24 +2,25 @@
 
 **Overview**
 
-Assets are digital receipts given to your customers when they have actions or achieved goals with your brand. With Toki, you can give your customers three types of digital assets - ERC-20's, ERC-1155's or non-blockchain points.&#x20;
+There are 2 types of assets for you to create: Credits and Collectibles. Think of Store Credit as currency and collectibles as badges. Both can be used to unlock different perks - one is something you collect over time. Another is a delineation of unlocked benefits.
 
-These assets can be given to a customer either automatically (with Activities) or manually (with Airdrops). They can also be unlocked once someone has taken a string of actions (via a Challenge or a Reward Tier).
+These assets can be given to a customer three ways:
 
-But first, you must mint your assets in the **Asset** section of the **Merchant Portal.**
+1. Action Based: A customer can be automatically given an asset after completing any of your Activities
+2. Unlocked: A customer can be automatically given an asset once they have taken a string of actions - completed a Challenge, or entered a Reward Tier.
+3. Manually: A customer can be manually gifted tokens through an Airdrop (learn more about Airdrops here)
 
-**How to**
+You can create your assets in the **Digital** **Assets** section of the **Merchant Portal.**
 
-{% embed url="https://www.loom.com/share/cb937d62661c4308bb89084762b124f9" %}
+**How to Create a Digital Asset:**
 
-**Best Practices**
+1. Click “Digital Assets” from the sidebar
+2. Click “Create New Asset” - **nothing in this module can be changed if it is on blockchain**
+3. Enter the name of your asset
+4. Select the type of asset (blockchain or not - click here for more information on the types of assets)
+5. Enter the name of Store Credit
+6. Upload an image in any of the available formats to associate with your token
 
-You are going to want to mint digital assets that connect to actions (like Activities and Airdrops) and then you are going to want to mint digital assets for specific unlocks that have rewards/perks attached to them (like Challenges and Reward Tiers). They are are conceptually two different things. One is something you collect over time. Another is a delineation of unlocked benefits.&#x20;
+[Here](https://loom.com/share/cb937d62661c4308bb89084762b124f9) is a video showing you how to do this:
 
-**Keep in Mind**
-
-1. If you have minted a "brand token" the symbol cannot be changed at a later date. However, you may mint multiple "brand tokens".
-2. These are "earned" instead of "paid tokens" meaning they will not have a value at the time of the mint.&#x20;
-
-&#x20;
-
+{% embed url="https://loom.com/share/cb937d62661c4308bb89084762b124f9" %}
