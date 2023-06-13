@@ -8,7 +8,7 @@
 
 **Is Visible** - if you want the reward tier to exist but not show up in the modules or the wallet, you can turn this off.
 
-## **Rewards**
+## **Granted Rewards**
 
 **Free Shipping** - this will grant any customers in this tier a Free Shipping code that they can apply to any order. You can set a minimum purchase requirement if you want, so one tier might get Free shipping on orders over $100, while your top tier gets free shipping on all orders
 

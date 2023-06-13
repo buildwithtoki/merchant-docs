@@ -15,14 +15,15 @@
 ## For Brands/Communities
 
 * [🙌 Installing Toki](for-brands-communities/installing-toki.md)
+* [📖 Program Set Up](for-brands-communities/program-set-up.md)
 * [⚙ Integrations](for-brands-communities/integrations.md)
 * [🍕 Credits + Collectibles](for-brands-communities/assets.md)
-* [👁 Issuance (aka Reward)](for-brands-communities/issuance-aka-reward/README.md)
+* [👁 Reward](for-brands-communities/issuance-aka-reward/README.md)
   * [🚴 Activities](for-brands-communities/issuance-aka-reward/activities.md)
   * [🧞 Klaviyo-Specific Activities](for-brands-communities/issuance-aka-reward/klaviyo-specific-activities.md)
   * [💎 Airdrops](for-brands-communities/issuance-aka-reward/airdrops.md)
   * [🥡 UGC](for-brands-communities/issuance-aka-reward/ugc.md)
-* [🥳 Redemption (aka Redeem)](for-brands-communities/redemption-aka-redeem/README.md)
+* [🥳 Redeem](for-brands-communities/redemption-aka-redeem/README.md)
   * [🌟 Reward Tiers](for-brands-communities/redemption-aka-redeem/reward-tiers.md)
   * [💿 Reward Tier Settings](for-brands-communities/redemption-aka-redeem/reward-tier-settings.md)
   * [⏱ Spending Rules](for-brands-communities/redemption-aka-redeem/spending-rules.md)
