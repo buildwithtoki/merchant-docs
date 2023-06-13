@@ -12,7 +12,7 @@ There are two types of Rule available - **Global Rules** and **Isolated Rules**.
 
 You get to determine the conversion rate of the token to $ ratio (i.e. how many tokens equal one dollar) via **Redeem > Spending Rules** in your Merchant Portal.&#x20;
 
-Read more about the Best Practices for the [Token Conversion Math](broken-reference) **** here.
+Read more about the Best Practices for the [Token Conversion Math](broken-reference) here.
 
 **How to**
 
