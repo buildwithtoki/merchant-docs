@@ -1,16 +1,22 @@
 # 🚲 Approve
 
-**Overview**
+Manual approval of customer activities is a way to prevent people from taking advantage of your generous loyalty program.
 
-Fun fact, Toki competitors actually do not certify that someone actually do the activity that you are rewarding them for. That's right. If someone were to "Follow you on Instagram" and you are using, let's say, Yotpo. Yotpo rewards that person with the points but never actually checks that it was done. This means the system can be abused at any given time.
+This article will cover how to approve all customer activities and FAQ’s about social media activities
 
-**How to**
+**How to: Approve Customer Activities**
 
-In order to prevent this, we have set up a system where easily scammed activities (like social likes) can actually be set to be manually approved instead of automatically approved.
+Setting an activity to manual approval
 
-Watch below to see how to set this up and where you will find inbound approvals if you do choose to set up manual approvals.
+1. When setting up an activity (or editing an existing activity), make sure the toggle for “Automatically approve” is turned off
 
-{% embed url="https://www.loom.com/share/a1db04a11fcf4d6f968b1576522e7cbd" %}
+Approving an activity
 
+1. Click “Approve”, under the “Reward” tab on the left sidebar
+2. For each activity, click “approve” or “deny”
+   1. Some activities will have an attachment associated with them (to see the post)
 
+Here is a video showing you how to set up manual approvals, and how to approve an activity
+
+{% embed url="https://www.loom.com/share/a1db04a11fcf4d6f968b1576522e7cbd?sid=64f6d059-0039-423f-b25c-4ec352eef78a" %}
 
