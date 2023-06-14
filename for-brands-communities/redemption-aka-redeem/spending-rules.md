@@ -1,40 +1,70 @@
 # ⏱ Spending Rules
 
-**Overview**
+### **Overview**
 
-Spending Rules are specific guidelines you as a merchant can set your program to operate under, allowing your users to spend their tokens on discounts or free products.
+Spending Rules are guidelines you can set your program to operate under, allowing your users to spend their tokens to receive discounts.
 
-There are two types of Rule available - **Global Rules** and **Isolated Rules**.&#x20;
+🚨Before you set up a spending rule, it is important that you have set up your [Assets](../assets.md) 🚨
 
-**Global Rules** allow a user to spend their tokens on an outsized discount.
+There are two types of rules available - **Global Rules** and **Isolated Rules**.
 
-**Isolated Rules** allow a user to spend their tokens for a free product.
+Global spending rules are in use throughout your website
 
-You get to determine the conversion rate of the token to $ ratio (i.e. how many tokens equal one dollar) via **Redeem > Spending Rules** in your Merchant Portal.&#x20;
+Isolated spending rules are specifically for token gated shops - learn more about token gated shops **here**
 
-Read more about the Best Practices for the [Token Conversion Math](broken-reference) here.
+**Global Rules** allow a user to spend their tokens on a discount code, to be used on any product
 
-**How to**
+**Isolated Rules** allow a user to buy a designated product (or products) with only tokens
 
-**A Global Set-up (in the Merchant Portal)**
+### **Global Spending Rules**
 
-The inputs for creating a Global Spending Rule are fairly straightforward. Just make sure you turn on the Status to orange after creating it.
+We recommend setting your global rule to 100 Credits = $1. This is the simplest thing for your customers to understand, and allows you to give out higher values of credits without giving away the store.
 
-{% embed url="https://www.loom.com/share/de1922ceee914b27bc3fe01c5e816ace" %}
+Please note you can only have 1 Global Spending Rule
 
-In order to complete the set up for Global Spending, you must implement the Global Spend Module within your Shopify Theme. [Go here for a thorough walkthrough](../onsite-design/global-spending-module.md).
+Here is how to set up a global spending rule:
 
-**An Isolated Set-up (in the Merchant Portal)**
+1. From the Merchant Portal, click Redeem
+2. Click [Spending Rules](https://manage.buildwithtoki.com/redeem/spending-rules)
+3. Click “Create New Rule” in the top right
+4. Enter the name of the rule (most people use “Global”, or the name of their asset)
+5. Select Rule type - Global
+6. Select Conversion Asset
+7. Enter Conversion Value (100)
 
-To start setting up Isolated Rules, you're going to want to decide which products you want to offer to be tradable for free in exchange for tokens.&#x20;
+There are 3 additional settings you can add to your spending rule:
 
-We suggest actually creating product duplicates so you can keep track of the inventory for free products. You will then need to create a new collection in your Shopify account and add these product duplicates. As you can see in our video below. Our collection with duplicates is called "Isolated Collection"&#x20;
+1. Max Discount Possible ($)
+   1. You have the option to specify the maximum dollar amount that someone can receive as a discount on any given order
+2. Minimum Cart Spend ($)
+   1. You have the option to limit customers from getting a discount until they have a minimum dollar amount in their cart
+3. Max Discount Possible (% of Order Total)
+   1. You have the option to specify the maximum percentage discount a customer can get (based off their order total)
 
-{% embed url="https://www.loom.com/share/359d7a543a8c436a953030e4410a9dc7" %}
+In order to complete the set up for Global Spending, you must design and implement the Global Spending Module on your Shopify Theme. Click here to learn more.
 
-You then are free to create your rule!
+### **Isolated Spending Rules**
 
-In order to complete the set up for Isolated Spending, you must implement the Isolated Spend Module within your Shopify Theme. [Go here for a thorough walkthrough](../onsite-design/isolated-spending-module.md).
+**Isolated Spending Rule**
+
+🚨Before you set up an Isolated spending rule, it is important that you have set up a separate collection in your Shopify store. 🚨 Read about Setting up a Token Shop here.
+
+Once you have a Token Shop Collection, here is how to set up an Isolated spending rule:
+
+1. From the Merchant Portal, click Redeem
+2. Click [Spending Rules](https://manage.buildwithtoki.com/redeem/spending-rules)
+3. Click “Create New Rule” in the top right
+4. Enter the name of the rule (most people use “Global”, or the name of their asset)
+5. Select Rule type - Isolated
+6. Select the collection you created from the drop down list
+7. Select Conversion Asset
+8. Enter Conversion Value (100)
+
+{% embed url="https://loom.com/share/359d7a543a8c436a953030e4410a9dc7" %}
+
+To complete the set up for Isolated Spending, you must design and implement the Isolated Spending Module on your Shopify Theme. Click here to learn more.
+
+
 
 
 
