@@ -12,3 +12,7 @@ Design Settings (across all modules)
 * Border Radius: determines how square/circular the wallet will appear
 * Border Width: how much of a border you want the wallet to have
 * Border Color: what color you want the border of the wallet to be
+* Custom CSS: in ANY of these modules, you can add custom CSS to further customize the designs. This will be found at the bottom of the Module Design Settings.
+* Generate HTML
+* Publish/Unpublish
+* Save/Save as Draft
