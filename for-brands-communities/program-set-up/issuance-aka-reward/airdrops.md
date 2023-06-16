@@ -24,12 +24,12 @@ To send an airdrop to someone who has never engaged with your loyalty program be
 
 **Sending to Current Loyalty Program Users**
 
-However, if you are interested in sending an airdrop to a segment of your current loyalty program, you are going to want to go to [**Audience** ](../audience.md)**> Segments** > **Create a new Segment**. Once you have created the Segment, you will **Export that CSV**. You will then come back to Airdrops and create a new Airdrop and upload this CSV.&#x20;
+However, if you are interested in sending an airdrop to a segment of your current loyalty program, you are going to want to go to [**Audience** ](../../managing-the-user-experience/audience.md)**> Segments** > **Create a new Segment**. Once you have created the Segment, you will **Export that CSV**. You will then come back to Airdrops and create a new Airdrop and upload this CSV.&#x20;
 
 
 
 **Customizing the Look and Feel**
 
-The Airdrops Submission Module can be edited from within the **Theme Editor**. Read more about this in the [**Onsite Design section**](../onsite-design/airdrops-module.md).
+The Airdrops Submission Module can be edited from within the **Theme Editor**. Read more about this in the [**Onsite Design section**](../../onsite-design/website-components/airdrops-module.md).
 
 And that's how it's done!&#x20;
