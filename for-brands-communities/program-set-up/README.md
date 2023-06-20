@@ -8,4 +8,4 @@ We’ve pre-designed a few programs for you, based on what types of behaviors yo
 
 **Tier Based vs. Spendable**
 
-Deciding how to reward customers has never been simpler. Either they earn or buy their way into Tiers, and Tiers = Discounts + Perks. Or, they earn credits, and spend the credits like cashback. If you opt for a Tier Based program, points can NOT be spent.
+Deciding how to reward customers has never been simpler. Either they earn or buy their way into Tiers, and Tiers = Discounts + Perks. Or, they earn credits, and spend the credits like cashback. If you opt for a Tier Based program, points are not spent.
