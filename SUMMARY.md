@@ -5,13 +5,6 @@
 * [💡 Toki 101](README.md)
 * [💫 Our Features](overview/our-features.md)
 
-## Blockchain 101
-
-* [⛓ Toki Blockchain](blockchain-101/toki-blockchain.md)
-* [🪙 Toki Tokens](blockchain-101/toki-tokens.md)
-* [💸 Toki Wallet](blockchain-101/toki-wallet.md)
-* [💲 Tokenomics](blockchain-101/tokenomics.md)
-
 ## For Brands/Communities
 
 * [Getting Started](for-brands-communities/getting-started/README.md)
@@ -55,19 +48,17 @@
 
 * [📪 User 101](for-users/user-101.md)
 * [☑ Toki Wallet](for-users/toki-wallet.md)
-* [💰 Holding Tokens](for-users/holding-tokens.md)
-* [😁 Claiming Tokens](for-users/claiming-tokens.md)
-* [🤩 Using Tokens](for-users/using-tokens/README.md)
-  * [📎 Use Tokens for Rewards](for-users/using-tokens/use-tokens-for-rewards.md)
-  * [🤝 Transfer Tokens to Friends](for-users/using-tokens/transfer-tokens-to-friends.md)
-  * [🍑 Spending Tokens](<for-users/spending-tokens (1).md>)
-  * [👯♂ Swap Brand Tokens](for-users/using-tokens/swap-brand-tokens.md)
-* [🐊 Connecting your Coinbase or Metamask](for-users/spending-tokens.md)
-* [🍇 Sending Tokens to Another Wallet](for-users/spending-tokens-1.md)
-* [🎓 Receiving Tokens from Another Wallet](for-users/spending-tokens-2.md)
-* [🤑 Token Values](for-users/token-values.md)
+* [💰 Holding Store Credit](for-users/holding-tokens.md)
+* [😁 Claiming Store Credit](for-users/claiming-tokens.md)
+* [🤩 Using Store Credit](for-users/using-tokens/README.md)
+  * [📎 Use Store Credit for Rewards](for-users/using-tokens/use-tokens-for-rewards.md)
+  * [🤝 Transfer Store Credit to Friends](for-users/using-tokens/transfer-tokens-to-friends.md)
+  * [🍑 Spending Store Credit](<for-users/spending-tokens (1).md>)
+  * [👯♂ Swap Store Credit](for-users/using-tokens/swap-brand-tokens.md)
+* [🎓 Receiving Store Credit from Another Wallet](for-users/spending-tokens.md)
 
 ## Additional Info
 
 * [📪 Feature Requests](additional-info/feature-requests.md)
+* [⛓ Toki Blockchain](additional-info/toki-blockchain.md)
 * [🌳 Carbon Offset](additional-info/carbon-offset.md)
