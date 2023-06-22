@@ -2,7 +2,7 @@
 
 **Overview**
 
-The Redemption Module is the access point to your customer's wallet. They will use this module in order to connect to see if they have any discounts or benefits attached to their account that can apply to their order.&#x20;
+The Redemption Module is how your customers can access the discounts and perks they have access to.
 
 **How to**
 
@@ -12,7 +12,13 @@ To do so, go to Customize your Theme and go to the page you would like to place 
 
 {% embed url="https://www.loom.com/share/739460e5e37745658270d44a28bbf203" %}
 
+**How to Design the Redemption Module**
 
+1. From the merchant portal, Click Design from the sidebar
+2. Click "Create Design"
+3. Write the name of the module you are creating - "Redemption Module"
+4. Select "Redemption Module" from the list
+5. Use the settings in the designer to customize what this looks like - text, colors, images, shape of the buttons, etc!
 
 
 
