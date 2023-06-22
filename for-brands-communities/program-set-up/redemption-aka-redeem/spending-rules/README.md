@@ -41,7 +41,7 @@ There are 3 additional settings you can add to your spending rule:
 3. Max Discount Possible (% of Order Total)
    1. You have the option to specify the maximum percentage discount a customer can get (based off their order total)
 
-In order to complete the set up for Global Spending, you must design and implement the Global Spending Module on your Shopify Theme. Click here to learn more.
+In order to complete the set up for Global Spending, you must design the spending module in the merchant portal, and implement the Global Spending Module on your Shopify Theme. Click here to learn more.
 
 ### **Isolated Spending Rules**
 
