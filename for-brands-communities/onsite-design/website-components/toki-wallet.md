@@ -1,3 +1,9 @@
+---
+description: >-
+  Everything you need to know about designing the Toki Wallet to work for you
+  and your customers
+---
+
 # 😁 Toki Wallet
 
 ## **Overview**
@@ -16,19 +22,21 @@ How to create your wallet:
 
 ## Merchant Portal Designer Sections:
 
-### **Wallet Icon Design**
+### **Style**
 
-#### **Module Postion**
+#### **Location**
 
 * Display location: choose between Mobile only, Desktop only or Both
 * Module Position: where on site do you want the wallet to live?
 * Module Position Horizontal Offset: this will offset the wallet from the above selected  horizontal position (Right/Center/Left) by whatever amount you choose
 * Module Position Vertical Offset: this will offset the wallet from the above selected vertical position (Top/Center/Bottom) by whatever amount you choose
+* Pages to Include/Exclude
+  * If you want the wallet icon to only show on certain pages, include the links to those pages here.
+  * If you want the wallet icon to show on all pages EXCEPT for certain pages, include the links to those pages that it should be excluded from here
 
-#### **Brand Wrapper**
+#### **Icon**
 
 * Width + Height: the size of the wallet
-* Background Color: what color will the background of the wallet be? \*overridden if a brand image is selected\*
 * Border Radius: determines how square/circular the wallet will appear
 * Border Width: how much of a border you want the wallet to have
 * Border Color: what color you want the border of the wallet to be
@@ -38,6 +46,7 @@ How to create your wallet:
 
 \*these settings are overriden if a brand image is selected\*
 
+* Background Color: what color will the background of the wallet be? \*overridden if a brand image is selected\*
 * Color - what color will the text be?
 * Font Size - what size will the text be
 * Text - what do you want it to say?
@@ -50,17 +59,11 @@ Wallet with close button? - do you want the option for people to remove the wall
 * Close button border color
 * Close button icon color
 
-### **In Wallet**
+#### **In Wallet**
 
 Welcome text (Repeat Customer) - Maximum 100 characters
 
 Welcome text (First Time Customer) - Maximum 100 characters
-
-#### **Membership Card**
-
-* Membership Card Brand Logo - logo that will show in the top left of the "membership card"
-* Membership Card Brand Logo Width + Height (max 100px) - size of the brand logo above
-* Membership Card Brand Logo Border Radius - how square/circular the brand logo will be
 
 #### **Container Images**
 
@@ -76,13 +79,23 @@ Welcome text (First Time Customer) - Maximum 100 characters
 
 See below for a diagram of which colors and fonts correspond to which areas of the wallet
 
-### **Featured Activity**
+**Activities**
 
-Featured Activity - an activity you want to highlight PRIOR to someone logging in
+You can choose which activities will show up in the wallet here. If you make no selection, all activities that are turned on in the merchant portal will appear
 
-Submitted Message - what text will appear upon completion when the featured activity requires manual approval
+#### **Membership Card**
 
-Completed Message - what text will appear upon completion when the featured activity is automatically approved &#x20;
+* Membership Card Brand Logo - logo that will show in the top left of the "membership card"
+* Membership Card Currency - will you show the balance in UDS or Store Credits?
+* Membership Card Brand Logo Width + Height (max 100px) - size of the brand logo above
+* Membership Card Brand Logo Border Radius - how square/circular the brand logo will be
+
+#### **Featured Activity**
+
+* Featured Activity - an activity you want to highlight PRIOR to someone logging in
+* Featured Activity Title - what text will appear as a title of the featured activity
+* Submitted Message - what text will appear upon completion when the featured activity requires manual approval
+* Completed Message - what text will appear upon completion when the featured activity is automatically approved &#x20;
 
 ### **Auth Screen**
 
@@ -90,21 +103,48 @@ The Auth Screen (Authorization Screen) is what shows up when someone clicks on t
 
 You can insert up to 5 "slides" with photos + text above the login module to customize this page further. If you have a featured activity, it will show below these slides.
 
-Auth Screen Background Color - what will show up if you do not have slides
+* Auth Screen Background Color - what will show up if you do not have slides
+* Decide if you want to show the Brand Logo + what the position of it will be
+* Slide Font Color + Font Text size - formatting for the text that accompanies your slides (optional)
 
-Slide Font Color + Font Text size - formatting for the text that accompanies your slides (optional)
+### **Home Screen**
 
-### **Settings**
+From here, you can select which blocks will show up in the home screen. The order can be rearranged however you want, by moving the arrows once you select each block from the dropdown.&#x20;
 
-**Activities**
+If you select nothing it will default to these, in this order:
 
-You can choose which activities will show up in the wallet here. If you make no selection, all activities that are turned on in the merchant portal will appear
+* Intro Message Block
+* Card Block
+* Perks Block
+  * any earned discounts will show up here
+* Coupons Block
+  * any coupons that have been created from spent credits will show up here
 
-**Pages to Include/Exclude**
+You can also add the following blocks:
 
-If you want the wallet icon to only show on certain pages, include the links to those pages here.
+* Featured Activity Block
+* More Ways to Earn Block - additional activities&#x20;
+* Claims Block - any credits you have left to claim
+* Gifts Block - any free gifts you have earned
 
-If you want the wallet icon to show on all pages EXCEPT for certain pages, include the links to those pages that it should be excluded from here
+### Spend Screen
+
+The Spend Screen defaults to the following blocks:
+
+* Total Spending Power Block
+* Credit Spender Block
+
+Other blocks you can add include:
+
+* Total Code - learn more about the ledger system here
+* Coupons Block
+* Gifts Block
+
+
+
+
+
+
 
 
 
