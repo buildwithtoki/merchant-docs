@@ -1,2 +1,2 @@
-# How It Works
+# 🏁 How It Works
 

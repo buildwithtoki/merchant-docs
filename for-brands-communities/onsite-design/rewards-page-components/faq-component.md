@@ -1,2 +1,2 @@
-# FAQ Component
+# ❓ FAQ Component
 

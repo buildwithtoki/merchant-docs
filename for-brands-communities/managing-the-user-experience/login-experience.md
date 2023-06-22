@@ -2,7 +2,7 @@
 description: This page talks about the different ways someone can log in to the wallet
 ---
 
-# Login Experience
+# 🧑💻 Login Experience
 
 ### Magic Link
 
