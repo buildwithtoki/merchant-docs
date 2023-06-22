@@ -4,7 +4,7 @@
 
 **Activities** are actions that customers can take to earn tokens - they are set up in your **Merchant Portal**.
 
-Klaviyo is a dream platform to set up 3 different types of automated activities:&#x20;
+Klaviyo is a great platform to set up all different types of activities:&#x20;
 
 * Newsletter Sign up
 * Sharing your birthday
