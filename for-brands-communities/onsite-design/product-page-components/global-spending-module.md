@@ -4,7 +4,7 @@
 
 The Global Spending Module is a way for your users to actually spend their credits to get  discounts.&#x20;
 
-To set this up, you will need to set up a Global Spending Rule within your merchant portal and then you will need to set up a Global Spending Module on the product pages you would like to allow this on. You can also put this on the Checkout Page if your Shopify account allows you to. Read more about Checkout UI here.&#x20;
+To set this up, you will need to set up a Global Spending Rule within your merchant portal and then you will need to set up a Global Spending Module on the product pages you would like to allow this on. You can also put this on the Checkout Page if your Shopify account allows access. Read more about Checkout UI [here](../checkout-+-post-purchase-components.md).&#x20;
 
 **How to add a Global Spending Module to a Product Page**
 

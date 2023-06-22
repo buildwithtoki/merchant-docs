@@ -12,6 +12,7 @@
   * [🤓 Logging In](for-brands-communities/getting-started/logging-in.md)
   * [⚙ Integrations](for-brands-communities/getting-started/integrations/README.md)
     * [Brij Integration](for-brands-communities/getting-started/integrations/brij-integration.md)
+  * [Migrating Existing Rewards Program](for-brands-communities/getting-started/migrating-existing-rewards-program.md)
 * [📖 Program Set Up](for-brands-communities/program-set-up/README.md)
   * [🍕 Credits + Collectibles](for-brands-communities/program-set-up/assets.md)
   * [👁 Reward](for-brands-communities/program-set-up/issuance-aka-reward/README.md)
