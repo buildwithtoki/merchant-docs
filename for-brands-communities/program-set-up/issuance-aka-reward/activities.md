@@ -12,7 +12,7 @@
 2. Click **Activities**
 3. Click **Create a new activity**
 4. Name your activity (e.g. Follow us on Instagram)
-5. Select an integration from the list (note: only integrations you have set up will show here)
+5. Select an integration from the list
 6. Select the type of activity - these will differ based on the integration chosen
 7. Follow the instructions related to the chosen integration
 8. Select the reward you want to provide for completing the activity
