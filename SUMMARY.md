@@ -8,6 +8,7 @@
 ## For Brands/Communities
 
 * [Getting Started](for-brands-communities/getting-started/README.md)
+  * [Logging In](for-brands-communities/getting-started/logging-in.md)
   * [🙌 Installing Toki](for-brands-communities/getting-started/installing-toki.md)
   * [⚙ Integrations](for-brands-communities/getting-started/integrations.md)
 * [📖 Program Set Up](for-brands-communities/program-set-up/README.md)
