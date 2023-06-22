@@ -17,7 +17,11 @@ Please note: If you have a custom theme or custom product page, you can generate
 
 {% embed url="https://www.loom.com/share/be26139e7984478b8d150d7eb262f5a9" %}
 
-How to design the Spending Module
+**How to design the Spending Module**
 
-1. From the merchant portal,&#x20;
+1. From the merchant portal, Click Design from the sidebar
+2. Click "Create Design"
+3. Write the name of the module you are creating - "Global Spending"
+4. Select "Global Spending Module" from the list
+5. Use the settings in the designer to customize what this looks like - text, colors, images, shape of the buttons, etc!
 
