@@ -125,7 +125,7 @@ You can also add the following blocks:
 * Featured Activity Block
 * More Ways to Earn Block - additional activities&#x20;
 * Claims Block - any credits you have left to claim
-* Gifts Block - any free gifts you have earned
+* Gifts Block - any free gifts you have earned will show up here
 
 ### Spend Screen
 
@@ -136,9 +136,9 @@ The Spend Screen defaults to the following blocks:
 
 Other blocks you can add include:
 
-* Total Code - learn more about the ledger system here
-* Coupons Block
-* Gifts Block
+* Total Code - learn more about the ledger system [here](../../program-set-up/redemption-aka-redeem/spending-rules/ledger-system.md)
+* Coupons Block - any coupons that have been created from spent credits will show up here
+* Gifts Block - any free gifts you have earned will show up here
 
 
 
