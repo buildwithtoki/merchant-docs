@@ -2,7 +2,7 @@
 description: How to migrate your existing rewards members over
 ---
 
-# Migrating Existing Rewards Program
+# ↔ Migrating Existing Rewards Program
 
 Congrats on making the decision to use Toki to reward your valuable customers!
 
