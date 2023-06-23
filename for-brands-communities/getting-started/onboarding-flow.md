@@ -16,9 +16,9 @@ You can skip any of these steps at any point if needed!
 
 **Create Paid Membership** - this video shows you how to create a paid membership product in Shopify
 
-**Set up activities** - use this page to set up activities - actions that customers take to get rewards
+**Set up activities** - use this page to set up activities - actions that customers take to get rewards. If you need more help setting up activities, click here.
 
-**Set up rewards** - use this page to set up your reward tiers (if you have chosen a program that has reward tiers)
+**Set up rewards** - use this page to set up your reward tiers (if you have chosen a program that has reward tiers). If you need more help setting up activities, click here.
 
 **Transfer old program** - you can download a csv template here and upload a csv of your existing customers + points balance. Learn more [here](../program-set-up/migrating-existing-rewards-program.md)!
 

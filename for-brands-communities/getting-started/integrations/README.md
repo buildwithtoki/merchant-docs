@@ -27,6 +27,7 @@ Below is a list of the apps we have integrations with and their functionality:
 * **Klaviyo:** By integrating Toki with Klaviyo, you can take advantage of powerful email marketing automation tools to boost your sales and engagement. To set up this integration, you'll need to create a “Toki” API Key (Full Access) and provide your Klaviyo public API key.
 * **Recharge:** Toki's integration with Recharge makes it easy to reward customers for staying on a subscription plan. To set up this integration, you'll need to provide your Recharge API Key + API Client Secret
 * **Snowflake:** Integrating Toki with Snowflake allows you to easily analyze your store's data, gain valuable insights, and make data-driven decisions. To set up this integration, you'll need to provide your Snowflake account credentials.
+* **Postscript:** In Beta - stay tuned!
 * **Social Media: Instagram, Facebook, Tiktok and Discord:** Connect Toki to your Social Media accounts, so you can reward customers for engaging with your brand online.
   * Please note that for certain activities, attribution is set for click-though as these social media platforms do not pass back information about users activity
   * The only activities that pass through data is available for are commenting or UGC when the customer tags your brand

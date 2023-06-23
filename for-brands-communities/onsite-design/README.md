@@ -6,7 +6,7 @@ Because Toki is integrated with your website, your customers should not be able 
 
 As a result, we have created different components that are customizable. You can put these components in different places on your website to explain your program, notify your consumers of what rewards they have and give them ways to use the rewards during their shopping experience.
 
-Design Settings (across all modules)
+**Design Settings (across all modules)**
 
 * All images have to be less than 4MB
 * Border Radius: determines how square/circular the wallet will appear
