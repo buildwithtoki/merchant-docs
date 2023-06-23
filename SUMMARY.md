@@ -17,6 +17,7 @@
     * [Branding](for-brands-communities/getting-started/settings/branding.md)
     * [Social](for-brands-communities/getting-started/settings/social.md)
     * [Billing](for-brands-communities/getting-started/settings/billing.md)
+  * [Onboarding Flow](for-brands-communities/getting-started/onboarding-flow.md)
   * [🔄 Integrations](for-brands-communities/getting-started/integrations/README.md)
     * [Brij Integration](for-brands-communities/getting-started/integrations/brij-integration.md)
 * [📖 Program Set Up](for-brands-communities/program-set-up/README.md)
