@@ -25,7 +25,7 @@
   * [💰 Reward](for-brands-communities/program-set-up/issuance-aka-reward/README.md)
     * [🚴 Activities](for-brands-communities/program-set-up/issuance-aka-reward/activities.md)
     * [🧞 Klaviyo-Specific Activities](for-brands-communities/program-set-up/issuance-aka-reward/klaviyo-specific-activities.md)
-    * [💎 Airdrops - To Edit](for-brands-communities/program-set-up/issuance-aka-reward/airdrops.md)
+    * [💎 Airdrops](for-brands-communities/program-set-up/issuance-aka-reward/airdrops.md)
     * [🥡 UGC - Beta](for-brands-communities/program-set-up/issuance-aka-reward/ugc.md)
   * [🥳 Redeem](for-brands-communities/program-set-up/redemption-aka-redeem/README.md)
     * [🌟 Reward Tiers](for-brands-communities/program-set-up/redemption-aka-redeem/reward-tiers.md)
