@@ -42,7 +42,6 @@
     * [🛫 Airdrops Module - To Edit](for-brands-communities/onsite-design/website-components/airdrops-module.md)
   * [Product Page Components](for-brands-communities/onsite-design/product-page-components/README.md)
     * [🍰 Global Spending Module](for-brands-communities/onsite-design/product-page-components/global-spending-module.md)
-    * [📺 Isolated Spending Module](for-brands-communities/onsite-design/product-page-components/isolated-spending-module.md)
     * [💭 Redemption Module](for-brands-communities/onsite-design/product-page-components/redemption-module.md)
   * [Rewards Page Components](for-brands-communities/onsite-design/rewards-page-components/README.md)
     * [👬 Refer a Friend Module](for-brands-communities/onsite-design/rewards-page-components/refer-a-friend-module.md)
