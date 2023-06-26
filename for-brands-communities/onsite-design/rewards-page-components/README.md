@@ -6,6 +6,14 @@ description: >-
 
 # Rewards Page Components
 
+Using Toki's Designer Portal, you can design a separate page for users to learn about your program.&#x20;
+
+How to set up a Rewards Page:
+
+1. Customize your Theme
+2. Create new template, labeled "rewards"
+3. Add any number of these components to the page
+
 There are 11 Reward Page components:
 
 1. Get Started
