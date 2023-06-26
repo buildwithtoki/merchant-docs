@@ -1,12 +1,19 @@
-# 🥡 UGC
+---
+description: How to use the UGC portal to reward customers for specific content
+---
+
+# 🥡 UGC - Beta
 
 **Overview**
 
-Rewarding a customer/user for user-generated content (UGC), is a more complicated Activity and, thus, requires its own section in the Merchant Portal. Toki integrates with both TikTok to reward customers/users for UGC.
+Rewarding a customer/user for user-generated content (UGC), is a great way to incentivize engagement. You can set it up as an Activity for Instagram and Tiktok, but the UGC tab allows you to dive deeper into this function.
 
-**How to**
+**How to reward for UGC**
 
-To reward to UGC, first set up your social accounts within the Merchant Portal. Once you have done so, you have free reign to search throughout TikTok for tagged photos/videos which you might want to reward.
+1. Set up your social accounts within the [Settings](https://manage.buildwithtoki.com/settings/social) tab
+2. Go to Reward > [UGC](https://manage.buildwithtoki.com/reward/ugc)  in the Merchant Portal&#x20;
+3. From here, you can search through TikTok for #campaigns you've started or @users you want to look for.&#x20;
+4. When you find someone you want to reward, you can send them an airdrop of store credits or tokens!
 
 We suggest openly communicating with your users/customers/fans that you are going to do this by pushing marketing materials and even doing a giveaway if that fits the feel of your brand.
 
