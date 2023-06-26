@@ -9,7 +9,7 @@ description: What is a token shop, and how do you set it up?
 Setting up a Token Shop is a way for your customers to buy products _exclusively_ with their tokens or store credit - no cash needed. There's a few things needed to set this up.&#x20;
 
 1. Isolated Spending Rule - learn how to set up here
-2. Isolated Spending Module
+2. Isolated Spending Module - learn how to design it [here](../../program-set-up/redemption-aka-redeem/spending-rules/)
 3. Token Shop&#x20;
 
 
