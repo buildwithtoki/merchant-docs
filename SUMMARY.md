@@ -31,6 +31,8 @@
     * [🌟 Reward Tiers](for-brands-communities/program-set-up/redemption-aka-redeem/reward-tiers.md)
     * [💿 Reward Tier Settings](for-brands-communities/program-set-up/redemption-aka-redeem/reward-tier-settings.md)
     * [⏱ Spending Rules](for-brands-communities/program-set-up/redemption-aka-redeem/spending-rules/README.md)
+      * [Global Spending](for-brands-communities/program-set-up/redemption-aka-redeem/spending-rules/global-spending.md)
+      * [Isolated Spending](for-brands-communities/program-set-up/redemption-aka-redeem/spending-rules/isolated-spending.md)
       * [Spending vs Ledger Module](for-brands-communities/program-set-up/redemption-aka-redeem/spending-rules/spending-vs-ledger-module.md)
   * [↔ Migrating Existing Rewards Program](for-brands-communities/program-set-up/migrating-existing-rewards-program.md)
 * [🎨 Onsite Design](for-brands-communities/onsite-design/README.md)

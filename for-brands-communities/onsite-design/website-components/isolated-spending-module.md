@@ -1,14 +1,36 @@
-# 🍭 Isolated Spending Module
+---
+description: What is a token shop, and how do you set it up?
+---
+
+# 🍭 Token Shop + Isolated Spending
 
 **Overview**
 
-The Isolated Spending Module is a way for your users to actually spend their tokens to get free products. This is super cool because you can basically set up a whole collection or area of your store where customers can specifically purchase products with loyalty tokens!&#x20;
+Setting up a Token Shop is a way for your customers to buy products _exclusively_ with their tokens or store credit - no cash needed. There's a few things needed to set this up.&#x20;
 
-To set this up, you will need to set up a Isolated Spending Rule within your merchant portal (as described before here) and then you will need to set up a Global Spending Module on the product pages + collection page you would like to allow this on.&#x20;
+1. Isolated Spending Rule - learn how to set up here
+2. Isolated Spending Module
+3. Token Shop&#x20;
 
-**How to**
 
-After setting up your rule in the merchant portal, you will need to make sure you are reading to set up the module. We suggest actually creating product duplicates so you can keep track of the inventory for free products. As you will see in the below video, our original product "Chill Feelings" is in the regular "Shop" collection; however, we made a duplicate called "Chill Feelings - Special" which is in the "Exclusive Members Shop", the latter both of which have Isolated Rules applied to them.
+
+**How to Design the Spending**
+
+After setting up your Isolated Spending Rule, design the module in the Merchant Portal&#x20;
+
+1.
+
+    **How to Design the Spending Module**
+
+    1. From the merchant portal, Click Design from the sidebar
+    2. Click "Create Design"
+    3. Write the name of the module you are creating - "Global Spending"
+    4. Select "Global Spending Module" from the list
+    5. Use the settings in the designer to customize what this looks like - text, colors, images, shape of the buttons, etc!
+
+\*We suggest actually creating product duplicates so you can keep track of the inventory for free products\*&#x20;
+
+As you will see in the below video, our original product "Chill Feelings" is in the regular "Shop" collection; however, we made a duplicate called "Chill Feelings - Special" which is in the "Exclusive Members Shop", the latter both of which have Isolated Rules applied to them.
 
 {% embed url="https://www.loom.com/share/3747e1938943413584386af35fa8f867" %}
 
@@ -35,7 +57,7 @@ We then add the Price Mask to the isolated-product page and the isolated-collect
     </div>
 ```
 
-We customize both to our liking.&#x20;
+Customize both however you see fit!&#x20;
 
 And voila!
 
