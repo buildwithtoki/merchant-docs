@@ -3,20 +3,12 @@
 ## Overview
 
 * [💡 Toki 101](README.md)
-* [💫 Our Features](overview/our-features.md)
 
 ## For Brands/Communities
 
 * [Getting Started](for-brands-communities/getting-started/README.md)
   * [🙌 Installing Toki](for-brands-communities/getting-started/installing-toki.md)
   * [🤓 Logging In](for-brands-communities/getting-started/logging-in.md)
-  * [⚙ Settings](for-brands-communities/getting-started/settings/README.md)
-    * [Account](for-brands-communities/getting-started/settings/account.md)
-    * [Team Settings (Beta)](for-brands-communities/getting-started/settings/team-settings-beta.md)
-    * [Integrations](for-brands-communities/getting-started/settings/integrations.md)
-    * [Branding](for-brands-communities/getting-started/settings/branding.md)
-    * [Social](for-brands-communities/getting-started/settings/social.md)
-    * [Billing](for-brands-communities/getting-started/settings/billing.md)
   * [Onboarding Flow](for-brands-communities/getting-started/onboarding-flow.md)
   * [🔄 Integrations](for-brands-communities/getting-started/integrations/README.md)
     * [Brij Integration](for-brands-communities/getting-started/integrations/brij-integration.md)
@@ -55,6 +47,13 @@
   * [🧑💻 Login Experience](for-brands-communities/managing-the-user-experience/login-experience.md)
   * [🚲 Approve](for-brands-communities/managing-the-user-experience/approve.md)
   * [🫂 Audience](for-brands-communities/managing-the-user-experience/audience.md)
+* [⚙ Settings](for-brands-communities/settings/README.md)
+  * [Account](for-brands-communities/settings/account.md)
+  * [Team Settings (Beta)](for-brands-communities/settings/team-settings-beta.md)
+  * [Integrations](for-brands-communities/settings/integrations.md)
+  * [Branding](for-brands-communities/settings/branding.md)
+  * [Social](for-brands-communities/settings/social.md)
+  * [Billing](for-brands-communities/settings/billing.md)
 
 ## For Users
 

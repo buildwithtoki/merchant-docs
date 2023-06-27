@@ -9,5 +9,5 @@ Stuck? follow these steps:
 3. Search for “Toki”
 4. Click Install or Download App
 
-If you are interested in using Toki but you are not a Shopify Merchant, please reach out to us at [support@buildwithtoki.com](mailto:support@buildwithtoki.com) with the subject line and we will help you get set up!
+If you are interested in using Toki but you are not a Shopify Merchant, please reach out to us at [support@buildwithtoki.com](mailto:support@buildwithtoki.com) and we will help you get set up!
 
