@@ -14,4 +14,4 @@ Learn more on Toki and stay connected by following us on social:&#x20;
 * [Newsletter](https://www.buildwithtoki.com/community/newsletter)&#x20;
 * [Blog](https://www.buildwithtoki.com/resources)
 
-You can find more details here on the Wiki, or at [buildwithtoki.com](https://www.buildwithtoki.com/).
+Have a quick question or need help on set up - reach out to support@buikldwithtoki.com
