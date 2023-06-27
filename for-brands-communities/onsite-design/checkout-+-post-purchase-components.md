@@ -17,6 +17,18 @@ In order for your customers to get their store credit upon checkout, you must ad
 
 ![](<../../.gitbook/assets/Screen Shot 2023-06-27 at 2.31.50 PM.png>)
 
+### Post Purchase Module
+
+From the designer in the merchant portal, you can create a post purchase module as well! This will show customers how much they earned on their purchase, and allow you to show off a featured activity or challenge (like referring a friend!)
+
+**How to Design the Post Purchase Module**
+
+1. From the merchant portal, Click Design from the sidebar
+2. Click "Create Design"
+3. Write the name of the module you are creating - "Post Purchase"
+4. Select "Post Purchase" from the list
+5. Use the settings in the designer to customize what this looks like - text, colors, images, shape of the buttons, etc!
+
 ### Checkout Spending Module
 
 You can allow customers to decide how many credits they want to apply to their order at checkout using the Spending Module you created earlier.&#x20;
