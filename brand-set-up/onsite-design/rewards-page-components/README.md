@@ -28,3 +28,5 @@ There are 11 Reward Page components:
 10. Refer a Friend
 11. FAQ
 
+We will cover a few of them in this support section but please reach out if you have any further questions.
+
