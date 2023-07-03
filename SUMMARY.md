@@ -54,9 +54,7 @@
 * [☑ Toki Wallet](for-users/toki-wallet.md)
 * [🤩 Using Store Credit](for-users/using-tokens/README.md)
   * [📎 Use Store Credit for Rewards](for-users/using-tokens/use-tokens-for-rewards.md)
-  * [🤝 Transfer Store Credit to Friends](for-users/using-tokens/transfer-tokens-to-friends.md)
   * [🍑 Spending Store Credit](<for-users/spending-tokens (1).md>)
-  * [👯♂ Swap Store Credit](for-users/using-tokens/swap-brand-tokens.md)
 
 ## Additional Info
 

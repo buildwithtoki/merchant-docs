@@ -10,4 +10,3 @@ Or find them onsite here.
 
 {% embed url="https://www.loom.com/share/10c3e1850b5f425eae09aebc3aefcbd1" %}
 
-If a brand you've shopped with has issued you an NFT which you are holding in another wallet, but the brand has attached benefits to it (like discounts or gating) which you want to receive, you are going to need to authenticate your Coinbase or Metamask wallet within your Toki wallet. This will not move the asset, just give Toki read access to this specific asset. Go to [Connecting your Coinbase or Metamask](broken-reference) for more information.
