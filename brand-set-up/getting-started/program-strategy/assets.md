@@ -8,7 +8,7 @@ There are two types of assets for you to create: Credits and Collectibles. Think
 
 1. Action Based: A customer can be automatically given an asset after completing any of your Activities
 2. Unlocked: A customer can be automatically given an asset once they have taken a string of actions - completed a Challenge, or entered a Reward Tier.
-3. Manually: A customer can be manually gifted tokens through an Airdrop (learn more about Airdrops here)
+3. Manually: A customer can be manually gifted tokens through an Airdrop (learn more about [Airdrops](issuance-aka-reward/airdrops.md) here)
 
 You can create your assets in the **Digital** **Assets** section of the **Merchant Portal.**
 

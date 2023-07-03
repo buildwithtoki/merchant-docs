@@ -1,6 +1,6 @@
 # 🚴 Activities
 
-**Activities** are actions that customers can take to earn tokens - they are set up in your **Merchant Portal**.
+**Activities** are actions that customers can take to earn store credit - they are set up in your **Merchant Portal**.
 
 🚨Before you create an activity, it is important that you have set up your [Integrations](../../../integrations/) 🚨
 
