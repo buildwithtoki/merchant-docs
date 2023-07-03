@@ -2,7 +2,7 @@
 
 Toki can be downloaded from the Shopify App Store - just click [here](https://apps.shopify.com/toki-loyalty-rewards) to get started!
 
-Stuck? follow these steps:
+Stuck? Follow these steps:
 
 1. Go to [Shopify Marketplace](https://apps.shopify.com/)
 2. Log In

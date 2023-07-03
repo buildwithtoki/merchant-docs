@@ -2,7 +2,7 @@
 
 **Activities** are actions that customers can take to earn tokens - they are set up in your **Merchant Portal**.
 
-🚨Before you create an activity, it is important that you have set up your [Integrations](../../getting-started/integrations/) 🚨
+🚨Before you create an activity, it is important that you have set up your [Integrations](../../integrations/) 🚨
 
 **How to create an activity:**
 
@@ -23,6 +23,6 @@
 
 **Keep in mind**
 
-1. [Integrations](../../getting-started/integrations/) are a necessity to make Activities function. Ensure you setup Integrations first and foremost!
+1. [Integrations](../../integrations/) are a necessity to make Activities function. Ensure you setup Integrations first and foremost!
 2. You can edit an activity at any time
 3. You can duplicate activities using the copy button to the left of “Edit”

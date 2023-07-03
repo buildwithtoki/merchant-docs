@@ -1,6 +1,8 @@
 # 📖 Program Set Up
 
-We’ve pre-designed a few programs for you, based on what types of behaviors you want to incentivize, and what type of loyalty you want. We’ve divided programs based on how rewards are earned, and how they are redeemed.
+Based on research on the best loyalty programs in the world, we created four baseline program structures and created an easy to set up flow so you can set up your own world-class loyalty activation.
+
+When deciding on which program you want to set up, you are going to want to consider these two choices:
 
 **Earned vs. Paid Loyalty**
 
