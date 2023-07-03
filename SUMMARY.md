@@ -6,7 +6,7 @@
 
 ## Brand Set Up
 
-* [Getting Started](brand-set-up/getting-started/README.md)
+* [🤩 Getting Started](brand-set-up/getting-started/README.md)
   * [🙌 Installing Toki](brand-set-up/getting-started/installing-toki.md)
   * [🤓 Logging In](brand-set-up/getting-started/logging-in.md)
   * [📖 Program Strategy](brand-set-up/getting-started/program-strategy.md)
