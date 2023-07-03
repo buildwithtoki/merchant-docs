@@ -1,4 +1,4 @@
-# ↔ Best Practices
+# 🍒 Best Practices
 
 If you are setting up a traditional, tiered rewards program you are probably wondering how to think about the math behind the values delivered.&#x20;
 

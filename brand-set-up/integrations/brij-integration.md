@@ -1,4 +1,4 @@
-# Brij Integration
+# 😁 Brij Integration
 
 Integrating Brij with Toki makes it easy to drive your customers from a QR code to a branded onsite experience!
 
