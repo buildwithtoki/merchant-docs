@@ -9,12 +9,12 @@ Toki aims to make collecting loyalty rewards as a consumer 1000x easier than eve
 * **The point collection experience is opaque.** As a consumers, there are never notifications throughout the shopping experience to let you know how many points you’ve collected or how to use them.
 * **Converting your points to perks is a complicated math problem!** No one likes math.. 5 points for every $1 spent but then 100 points for $5 off- wait what??
 
-Toki is a simplified, one-stop shop is where  you can collect brand tokens and NFT's for the activities you are already taking, and redeem them in a variety of ways such as:&#x20;
+Toki is a simplified, one-stop shop is where  you can collect store credit and collectibles for the activities you are already taking, and redeem them in a variety of ways such as:&#x20;
 
 * Redeem rewards with said brand&#x20;
 * Send tokens to friends and family&#x20;
 * Swap tokens for another brand tokens
 * Cash tokens out for fiat currency
 
-With Toki, the brand tokens for any brands using Toki are collected in the Toki wallet in one place for one seamless experience. No need to track, Toki brands have onsite notifications to let you know when you have been rewarded tokens are level up to new Reward Tiers.&#x20;
+With Toki, the store credit from any brands using Toki are collected in the Toki wallet in one place for one seamless experience. No need to track, Toki brands have onsite notifications to let you know when you have been rewarded tokens are level up to new Reward Tiers.&#x20;
 

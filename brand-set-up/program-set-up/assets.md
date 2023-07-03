@@ -1,4 +1,4 @@
-# 🍕 Assets
+# 🍕 Credits + Collectibles
 
 **Overview**
 

@@ -24,6 +24,8 @@
       * [Isolated Spending](brand-set-up/program-set-up/redemption-aka-redeem/spending-rules/isolated-spending.md)
       * [Spending vs Ledger Module](brand-set-up/program-set-up/redemption-aka-redeem/spending-rules/spending-vs-ledger-module.md)
   * [↔ Migrating Existing Rewards Program](brand-set-up/program-set-up/migrating-existing-rewards-program.md)
+  * [↔ Onboarding Checklist](brand-set-up/program-set-up/onboarding-checklist.md)
+  * [↔ Best Practices](brand-set-up/program-set-up/best-practices.md)
 * [🎨 Onsite Design](brand-set-up/onsite-design/README.md)
   * [Website Components](brand-set-up/onsite-design/website-components/README.md)
     * [😁 Toki Wallet](brand-set-up/onsite-design/website-components/toki-wallet.md)
@@ -58,14 +60,11 @@
 
 * [📪 User 101](for-users/user-101.md)
 * [☑ Toki Wallet](for-users/toki-wallet.md)
-* [💰 Holding Store Credit](for-users/holding-tokens.md)
-* [😁 Claiming Store Credit](for-users/claiming-tokens.md)
 * [🤩 Using Store Credit](for-users/using-tokens/README.md)
   * [📎 Use Store Credit for Rewards](for-users/using-tokens/use-tokens-for-rewards.md)
   * [🤝 Transfer Store Credit to Friends](for-users/using-tokens/transfer-tokens-to-friends.md)
   * [🍑 Spending Store Credit](<for-users/spending-tokens (1).md>)
   * [👯♂ Swap Store Credit](for-users/using-tokens/swap-brand-tokens.md)
-* [🎓 Receiving Store Credit from Another Wallet](for-users/spending-tokens.md)
 
 ## Additional Info
 

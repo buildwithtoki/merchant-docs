@@ -1,4 +1,4 @@
-# 💎 Airdrops - To Edit
+# 💎 Airdrops
 
 ### **Overview**
 

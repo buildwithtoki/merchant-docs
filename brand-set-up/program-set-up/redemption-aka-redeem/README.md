@@ -1,4 +1,4 @@
-# 🥳 Redemption (aka Redeem)
+# 🥳 Redeem
 
 With Toki, our goal is to give you the best picture of your customer possible and then the tools to activate them accordingly. The best way to do this is by giving your users fun, unique ways to unlock benefits from the assets they have collected with you.
 
