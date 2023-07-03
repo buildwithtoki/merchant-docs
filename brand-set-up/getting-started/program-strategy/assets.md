@@ -2,9 +2,9 @@
 
 **Overview**
 
-There are 2 types of assets for you to create: Credits and Collectibles. Think of Store Credit as currency and collectibles as badges. Both can be used to unlock different perks - one is something you collect over time. Another is a delineation of unlocked benefits.
+There are two types of assets for you to create: Credits and Collectibles. Think of Store Credit as currency and collectibles as badges. Both can be used to unlock different perks - one is something you collect over time. Another is a delineation of unlocked benefits.
 
-These assets can be given to a customer three ways:
+**These assets can be given to a customer three ways:**
 
 1. Action Based: A customer can be automatically given an asset after completing any of your Activities
 2. Unlocked: A customer can be automatically given an asset once they have taken a string of actions - completed a Challenge, or entered a Reward Tier.
