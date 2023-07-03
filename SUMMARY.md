@@ -24,6 +24,7 @@
       * [Isolated Spending](brand-set-up/onboarding-checklist/redemption-aka-redeem/spending-rules/isolated-spending.md)
       * [Spending vs Ledger Module](brand-set-up/onboarding-checklist/redemption-aka-redeem/spending-rules/spending-vs-ledger-module.md)
 * [↔ Best Practices](brand-set-up/best-practices.md)
+* [↔ Email + SMS Set Up](brand-set-up/email-+-sms-set-up.md)
 * [🔄 Integrations](brand-set-up/integrations/README.md)
   * [🧞 Klaviyo-Specific Activities](brand-set-up/integrations/klaviyo-specific-activities.md)
   * [Brij Integration](brand-set-up/integrations/brij-integration.md)

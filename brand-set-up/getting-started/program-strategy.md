@@ -12,11 +12,7 @@ Of the four programs we suggest, two of them give your customers the ability to 
 
 From there, it's critical to decide whether you want your customers be able to spend their store credit or not. If not, this means they will be forever accumulating credit and unlocking benefits from acquiring it over time.&#x20;
 
-
-
-_**Here are the four suggested programs:**_
-
-
+## **Here are the four suggested programs:**
 
 **Paid Membership:** Allow your customers to buy a monthly, quarterly or annual membership in exchange for discounts + perks.
 
@@ -25,3 +21,5 @@ _**Here are the four suggested programs:**_
 **Deposit Membership:** Allow your customers to buy a membership and get future store credit. Example: Starbucks app; Put $50 on your card, get $60 in credit.
 
 **Spendable Rewards Program:** Allow your customers to earn store credit through activities + spend their points on future purchases.
+
+To set up a baseline program, we suggest going through the traditional onboarding flow.

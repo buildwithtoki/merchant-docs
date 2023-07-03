@@ -1,7 +1,3 @@
----
-description: How to migrate your existing rewards members over
----
-
 # ↔ Migrating Existing Rewards Program
 
 Now that you've designed your awesome new loyalty program, we know it's important to have continuity for your customers.&#x20;
