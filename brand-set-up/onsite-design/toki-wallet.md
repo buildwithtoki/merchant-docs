@@ -2,7 +2,11 @@
 
 ## **Overview**
 
-You can add custom CSS to any of our design components. Here is a specific breakdown of how this works for the Your Status Component:
+You can add custom CSS to any of our design components.&#x20;
+
+{% embed url="https://www.loom.com/share/d63bad02186b4c219287f4afaf884823?sid=4b9f0898-7522-46e9-97e1-a9f4a9d2a2d0" %}
+
+Here is a specific breakdown of how this works for the Your Status Component:
 
 
 
