@@ -29,6 +29,9 @@
 * Toki\_referrer\_email: The email of the customer to send the referral to the friend.
 * toki\_referrer\_name: The first name + last name of the advocate (if that information is available).
 * toki\_${CHALLENGE\_NAME}challenge\_completed\_at: The challenge that this customer has completed
+* toki\_voting\_activity\_${ACTIVITY\_NAME}: The answer that the customer gave for the voting activity OR zero party data activity completed (we know this is a little confusing!)
+
+
 
 **Here is a view of what these properties look like on an Audience profile in Klaviyo.**
 
