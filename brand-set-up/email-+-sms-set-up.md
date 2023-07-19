@@ -29,6 +29,12 @@
 * Toki\_referrer\_email: The email of the customer to send the referral to the friend.
 * toki\_referrer\_nameThe first name + last name of the advocate (if that information is available).
 
+Here is a view of what these properties look like on an Audience profile in Klaviyo.
+
+
+
+{% embed url="https://loom.com/share/98ddc3dcae444b5eb9517e8fea520034?sid=9f34b78c-32c1-46bb-ada7-0cdb25d65647" %}
+
 &#x20;
 
 **Events we support:**
