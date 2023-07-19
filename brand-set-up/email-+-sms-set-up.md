@@ -27,9 +27,8 @@
 * Toki\_referral\_link: The customer's unique referral link. If you are running a code-based referral program, see below for attributes for code-based referrals.
 * Toki\_has\_account: True/False depending on if the customer has an account with the platform or not.
 * Toki\_referrer\_email: The email of the customer to send the referral to the friend.
-* toki\_referrer\_nameThe first name + last name of the advocate (if that information is available).
-
-
+* toki\_referrer\_name: The first name + last name of the advocate (if that information is available).
+* toki\_${CHALLENGE\_NAME}challenge\_completed\_at: The challenge that this customer has completed
 
 **Here is a view of what these properties look like on an Audience profile in Klaviyo.**
 
