@@ -36,6 +36,7 @@
     * [👬 Refer a Friend Module](brand-set-up/onsite-design/rewards-page-components/refer-a-friend-module.md)
     * [❓ FAQ Component](brand-set-up/onsite-design/rewards-page-components/faq-component.md)
   * [Checkout + Post Purchase Components](brand-set-up/onsite-design/checkout-+-post-purchase-components.md)
+  * [Go Live Component Checklist](brand-set-up/onsite-design/go-live-component-checklist.md)
   * [Custom CSS](brand-set-up/onsite-design/toki-wallet.md)
   * [Campaigns](brand-set-up/onsite-design/campaigns/README.md)
     * [🛫 Airdrops Module](brand-set-up/onsite-design/campaigns/airdrops-module.md)

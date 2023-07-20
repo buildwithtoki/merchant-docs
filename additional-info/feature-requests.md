@@ -28,3 +28,5 @@ It's often helpful to add a FAQ Component to your rewards page. Which FAQ's to a
 * How do referrals work?
 * Do my points/store credit expire?
 
+You can always send them areas of the For Users section of our Support Documentation for more guidance!
+
