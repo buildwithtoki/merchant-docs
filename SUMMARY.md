@@ -59,6 +59,7 @@
 
 ## Additional Info
 
-* [📪 Feature Requests](additional-info/feature-requests.md)
+* [📪 Customer Success FAQ](additional-info/feature-requests.md)
+* [📪 Feature Requests](additional-info/feature-requests-1.md)
 * [⛓ Toki Blockchain](additional-info/toki-blockchain.md)
 * [🌳 Carbon Offset](additional-info/carbon-offset.md)
