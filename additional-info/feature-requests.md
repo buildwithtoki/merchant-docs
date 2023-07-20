@@ -1,4 +1,4 @@
-# 📪 Customer Success FAQ
+# 🥰 Customer Success FAQ
 
 You've implemented Toki and now you need to prep your customer success team on how to use the platform when they get inbound requests. This document should be your guiding light for any inbound questions you may receive or requests you need to field.
 

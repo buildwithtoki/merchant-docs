@@ -53,13 +53,13 @@
 
 * [📪 User 101](for-users/user-101.md)
 * [☑ Toki Wallet](for-users/toki-wallet.md)
-* [🤩 Using Store Credit](for-users/using-tokens/README.md)
+* [🥳 Using Store Credit](for-users/using-tokens/README.md)
   * [📎 Use Store Credit for Rewards](for-users/using-tokens/use-tokens-for-rewards.md)
   * [🍑 Spending Store Credit](<for-users/spending-tokens (1).md>)
 
 ## Additional Info
 
-* [📪 Customer Success FAQ](additional-info/feature-requests.md)
-* [📪 Feature Requests](additional-info/feature-requests-1.md)
+* [🥰 Customer Success FAQ](additional-info/feature-requests.md)
+* [📪 Feature Requests](<additional-info/feature-requests (1).md>)
 * [⛓ Toki Blockchain](additional-info/toki-blockchain.md)
 * [🌳 Carbon Offset](additional-info/carbon-offset.md)
