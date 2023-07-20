@@ -20,3 +20,11 @@ You've implemented Toki and now you need to prep your customer success team on h
 
 If this does not work, you can also sign in to that customer's account through their Audience Profile page and spend points on a discount code for them. Their discounts will be available to them in the wallet until they actively use it at checkout on a purchase.
 
+It's often helpful to add a FAQ Component to your rewards page. Which FAQ's to add these will be dependent on your program, however, here are some of the more common ones.
+
+* What are my points/store credit worth?
+* How do I earn them?
+* How do I spend them?
+* How do referrals work?
+* Do my points/store credit expire?
+
