@@ -13,7 +13,7 @@
   * [↔ Migrating Existing Rewards Program](brand-set-up/getting-started/migrating-existing-rewards-program.md)
   * [✅ Onboarding Checklist](brand-set-up/getting-started/onboarding-checklist.md)
 * [🧠 Core Components](brand-set-up/core-components/README.md)
-  * [🍕 Credits + Collectibles](brand-set-up/core-components/assets.md)
+  * [🍕 Store Credits + Cashback](brand-set-up/core-components/assets.md)
   * [💰 Reward](brand-set-up/core-components/issuance-aka-reward/README.md)
     * [🚴 Activities](brand-set-up/core-components/issuance-aka-reward/activities.md)
     * [💎 Campaigns](brand-set-up/core-components/issuance-aka-reward/airdrops.md)
