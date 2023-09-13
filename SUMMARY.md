@@ -42,7 +42,7 @@
     * [🛫 Airdrops Module](brand-set-up/onsite-design/campaigns/airdrops-module.md)
 * [🧑🤝🧑 Managing the End User Experience](brand-set-up/managing-the-end-user-experience/README.md)
   * [🧑💻 Login Experience](brand-set-up/managing-the-end-user-experience/login-experience.md)
-  * [🧑💻 Opening Specific Wallet Pages](brand-set-up/managing-the-end-user-experience/opening-specific-wallet-pages.md)
+  * [😆 Opening Specific Wallet Pages](brand-set-up/managing-the-end-user-experience/opening-specific-wallet-pages.md)
   * [🚲 Approve](brand-set-up/managing-the-end-user-experience/approve.md)
   * [🫂 Audience](brand-set-up/managing-the-end-user-experience/audience.md)
 * [🔄 Integrations](brand-set-up/integrations/README.md)
