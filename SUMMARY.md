@@ -50,6 +50,7 @@
   * [😁 Brij Integration](brand-set-up/integrations/brij-integration.md)
 * [📩 Email + SMS Set Up](brand-set-up/email-+-sms-set-up.md)
 * [⚙ Settings](brand-set-up/settings.md)
+* [🤩 Understanding Analytics](brand-set-up/understanding-analytics.md)
 
 ## For Users
 
