@@ -59,6 +59,7 @@
 * [🥳 Using Store Credit](for-users/using-tokens/README.md)
   * [📎 Use Store Credit for Rewards](for-users/using-tokens/use-tokens-for-rewards.md)
   * [🍑 Spending Store Credit](<for-users/spending-tokens (1).md>)
+* [🚩 FAQ](for-users/toki-wallet-1.md)
 
 ## Additional Info
 
