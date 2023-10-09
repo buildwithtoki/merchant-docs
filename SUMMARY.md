@@ -44,6 +44,7 @@
   * [🧑💻 Login Experience](brand-set-up/managing-the-end-user-experience/login-experience.md)
   * [😆 Opening Specific Wallet Pages](brand-set-up/managing-the-end-user-experience/opening-specific-wallet-pages.md)
   * [🚲 Approve](brand-set-up/managing-the-end-user-experience/approve.md)
+  * [🚲 Notifications](brand-set-up/managing-the-end-user-experience/approve-1.md)
   * [🫂 Audience](brand-set-up/managing-the-end-user-experience/audience.md)
 * [🔄 Integrations](brand-set-up/integrations/README.md)
   * [🧞 Klaviyo-Specific Activities Integration](brand-set-up/integrations/klaviyo-specific-activities.md)
