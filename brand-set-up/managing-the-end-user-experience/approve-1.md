@@ -1,4 +1,4 @@
-# 🚲 Notifications
+# 💂♂ Notifications
 
 In order to configure notifications for your end users, go to the Toki Merchant Portal and Campaigns. Write in the name of your choice and select "Automatically" as your Type.
 
