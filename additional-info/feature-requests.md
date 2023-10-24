@@ -8,7 +8,7 @@ You've implemented Toki and now you need to prep your customer success team on h
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-07-20 at 2.36.35 PM.png" alt=""><figcaption></figcaption></figure>
 
-**What to do if they have multiple accounts: If a user has multiple accounts and they want to merge them, we suggest opening up both accounts, subtracting the total value from Account A and adding that total value to Account B, then lastly Deleting Account A with the Delete Customer button.**
+**What to do if they have multiple accounts:** If a user has multiple accounts and they want to merge them, we suggest opening up both accounts, subtracting the total value from Account A and adding that total value to Account B, then lastly Deleting Account A with the Delete Customer button.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-07-20 at 2.38.23 PM.png" alt=""><figcaption></figcaption></figure>
 
