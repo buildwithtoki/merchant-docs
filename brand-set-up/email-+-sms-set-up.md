@@ -34,8 +34,8 @@
 * toki\_${CHALLENGE\_NAME}challenge\_completed\_at: The challenge that this customer has completed
 * toki\_voting\_activity\_${ACTIVITY\_NAME}: The answer that the customer gave for the voting activity OR zero party data activity completed (we know this is a little confusing!)
 * apple\_wallet\_download\_url: This will be replaced with a link to download the your users Apple Wallet pass
-* toki\_rewards\_tier: Rewards associated with current tier
-* toki\_rewards\_nt\_tier: Rewards associated with next tier
+* toki\_tier\_rewards: Rewards associated with current tier
+* toki\_nt\_rewards: Rewards associated with next tier
 
 
 
