@@ -4,6 +4,21 @@
 
 Reward Tiers are a collection of perks you give your customers once they have collected a certain number of tokens OR completed a certain activity.
 
+
+
+**Perks you can reward**
+
+* Free shipping
+* Discounts
+* Accelerators
+* Voting Multipliers
+* Free Gifts
+* Gated Access
+* Collectibles
+* Store Credit
+
+
+
 **How to Create a Reward Tier**
 
 To set up reward tiers you must first have created the Toki assets - click here to learn how to do that
