@@ -2,6 +2,35 @@
 
 **Activities** are actions that customers can take to earn store credit - they are set up in your **Merchant Portal**. They are automated so once you set them up once, your customers will receive rewards automatically!
 
+Here are a list of all the ways you can reward your customers:
+
+* Join
+* Social (Follow, Like, Post, Join)
+  * Twitter
+  * FB
+  * Instagram
+  * Discord
+  * TikTok
+* Referral
+  * Get a friend to join the program
+  * Get a friend to make a purchase
+* Purchase
+  * Buying a specific product
+  * Buying generally (based on spend, % cashback)
+  * Buying a subscription
+  * Staying on a subscription (3rd purchase, etc)
+* Zero Party Data
+  * Quiz
+  * Survey
+  * Voting Activity
+* Other
+  * Submitting a picture or video
+  * Download the Apple Wallet Pass
+  * Click a link
+  * Share your birthday
+  * Sign up for newsletter
+  * Sign up for SMS
+
 🚨Before you create an activity, it is important that you have set up your [Integrations](../../integrations/) 🚨
 
 **How to create an activity:**
