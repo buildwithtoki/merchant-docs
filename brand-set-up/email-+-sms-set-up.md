@@ -17,6 +17,8 @@
 * Points Reminder (Sent to inactive customers who have points but not enough to redeem a reward.)
 * Redemption Reminder (Sent to inactive customers who have enough points sitting in their account to redeem a reward.)
 
+
+
 **Properties we support:**
 
 * Toki\_points\_earned: The customer's total historical points earned
@@ -24,6 +26,7 @@
 * Toki\_tier\_name: The name of the tier the customer is in now
 * Toki\_loyalty\_nt\_points: The number of points the customer must earn in order to proceed to the next tier.
 * Toki\_nt\_amount: The amount the customer must spend in order to proceed to the next tier. This property will show the default currency defined in your account settings.
+* Toki\_nt\_name: The name of the next tier that customer will unlock.
 * Toki\_referral\_link: The customer's unique referral link. If you are running a code-based referral program, see below for attributes for code-based referrals.
 * Toki\_has\_account: True/False depending on if the customer has an account with the platform or not.
 * Toki\_referrer\_email: The email of the customer to send the referral to the friend.
@@ -31,6 +34,8 @@
 * toki\_${CHALLENGE\_NAME}challenge\_completed\_at: The challenge that this customer has completed
 * toki\_voting\_activity\_${ACTIVITY\_NAME}: The answer that the customer gave for the voting activity OR zero party data activity completed (we know this is a little confusing!)
 * apple\_wallet\_download\_url: This will be replaced with a link to download the your users Apple Wallet pass
+* toki\_rewards\_tier: Rewards associated with current tier
+* toki\_rewards\_nt\_tier: Rewards associated with next tier
 
 
 
@@ -51,3 +56,7 @@
 * Toki Tier Lost: This event is triggered when a customer fails to meet the requirement for a tier after the specified period of time has passed. This event is commonly used for: sending a "warning" a set period of time to let the customer know they are about to lose their tier if they don't step up their participation.
 * Toki Tier Status Changed: This event is triggered when a customer gets closer or farther from retaining their current tier, and from entering the next tier. This event is commonly used for creating incentives by notifying customers "You only need X more points to reach the next tier"
 * Toki Account Created: The event is triggered when a reward was given to a customer for creating an account using the Create Account earning rule. This event is commonly used: if you want to do a Welcome Series for new users.
+* Wishlist Item Added: When a user has added a new wishlist item to their wishlist
+* Wishlist Item Removed: When a user has removed a new wishlist item to their wishlist
+* Challenge Started: When a user has started a challenge
+* Challenge Completed: When a user has completed a challenge
