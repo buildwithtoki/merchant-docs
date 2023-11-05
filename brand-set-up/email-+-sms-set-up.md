@@ -56,7 +56,7 @@
 * Toki Tier Lost: This event is triggered when a customer fails to meet the requirement for a tier after the specified period of time has passed. This event is commonly used for: sending a "warning" a set period of time to let the customer know they are about to lose their tier if they don't step up their participation.
 * Toki Tier Status Changed: This event is triggered when a customer gets closer or farther from retaining their current tier, and from entering the next tier. This event is commonly used for creating incentives by notifying customers "You only need X more points to reach the next tier"
 * Toki Account Created: The event is triggered when a reward was given to a customer for creating an account using the Create Account earning rule. This event is commonly used: if you want to do a Welcome Series for new users.
-* Wishlist Item Added: When a user has added a new wishlist item to their wishlist
-* Wishlist Item Removed: When a user has removed a new wishlist item to their wishlist
+* Wishlist Item Added: When a user has added a new wishlist item to their wishlist. Properties attached: Toki Product Id, Toki Variant Id + Toki Label
+* Wishlist Item Removed: When a user has removed a new wishlist item to their wishlist: Toki Product Id, Toki Variant Id + Toki Label
 * Challenge Started: When a user has started a challenge
 * Challenge Completed: When a user has completed a challenge
