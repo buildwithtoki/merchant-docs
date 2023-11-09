@@ -1,3 +1,7 @@
+---
+description: We integrate with Klaviyo, Omnisend, Sendlane, Postscript + Attentive.
+---
+
 # 📩 Email + SMS Set Up
 
 **There are six core events we recommend setting up first.**&#x20;
@@ -37,14 +41,6 @@
 * toki\_tier\_rewards: Rewards associated with current tier
 * toki\_nt\_rewards: Rewards associated with next tier
 
-
-
-**Here is a view of what these properties look like on an Audience profile in Klaviyo.**
-
-{% embed url="https://loom.com/share/98ddc3dcae444b5eb9517e8fea520034?sid=9f34b78c-32c1-46bb-ada7-0cdb25d65647" %}
-
-&#x20;
-
 **Events we support:**
 
 * Toki Points Earned: This event is triggered any time a customer earns points; This event is commonly used for: keeping a customer's point balance up to date in your CRM or email marketing platform.&#x20;
@@ -60,3 +56,9 @@
 * Wishlist Item Removed: When a user has removed a new wishlist item to their wishlist: Toki Product Id, Toki Variant Id + Toki Label
 * Challenge Started: When a user has started a challenge
 * Challenge Completed: When a user has completed a challenge
+
+
+
+**Here is a view of what these properties look like on an Audience profile in Klaviyo.**
+
+{% embed url="https://loom.com/share/98ddc3dcae444b5eb9517e8fea520034?sid=9f34b78c-32c1-46bb-ada7-0cdb25d65647" %}
