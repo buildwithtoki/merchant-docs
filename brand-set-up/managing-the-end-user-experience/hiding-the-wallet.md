@@ -1,4 +1,4 @@
-# 😆 Hiding the Wallet
+# 🤪 Hiding the Wallet
 
 If you do not want the wallet to show until a user clicks on your customer account icon (or button)..
 

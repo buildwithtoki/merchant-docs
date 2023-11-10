@@ -40,7 +40,7 @@
 * [🧑🤝🧑 Managing the End User Experience](brand-set-up/managing-the-end-user-experience/README.md)
   * [🧑💻 Login Experience](brand-set-up/managing-the-end-user-experience/login-experience.md)
   * [😆 Opening Specific Wallet Pages](brand-set-up/managing-the-end-user-experience/opening-specific-wallet-pages.md)
-  * [😆 Hiding the Wallet](brand-set-up/managing-the-end-user-experience/hiding-the-wallet.md)
+  * [🤪 Hiding the Wallet](brand-set-up/managing-the-end-user-experience/hiding-the-wallet.md)
   * [🚲 Approve](brand-set-up/managing-the-end-user-experience/approve.md)
   * [💂♂ Notifications](brand-set-up/managing-the-end-user-experience/approve-1.md)
   * [🫂 Audience](brand-set-up/managing-the-end-user-experience/audience.md)
