@@ -37,7 +37,20 @@ Here's how to put it on the checkout page:
 
 1. Go to Shopify Settings > Checkout
 2. Either create a new custom checkout, or customize an existing one
-3. On the bottom left sidebar, click "Add App"
+3. On the bottom left sidebar, click "Add App Block"
 4. Click "Spending Checkout Module 2.0"
+5. Move the module to whichever part of the checkout page you want
+6. Click save + publish!
+
+### Auto Apply Discounts Module
+
+You can auto apply reward tier discount codes + free shipping codes  at checkout using the Auto apply tiers codes module.&#x20;
+
+Here's how to put it on the checkout page:
+
+1. Go to Shopify Settings > Checkout
+2. Either create a new custom checkout, or customize an existing one
+3. On the bottom left sidebar, click "Add App Block"
+4. Click "Auto apply tiers codes module"
 5. Move the module to whichever part of the checkout page you want
 6. Click save + publish!
