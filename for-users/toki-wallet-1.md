@@ -52,3 +52,14 @@ This is entirely dependent on the brand you are supporting. They should communic
 
 Most likely, you did an activity or a challenge that required manual review! Hold tight while your brand manager reviews the action item and approves it. If you do not receive this credit, reach out to the brand's support center. If you know this was not a manual action and you did not receive your credit, please reach out to support@buildwithtoki.com
 
+\
+**How do I add my rewards card to my digital wallet?**
+
+To add your Rewards Card to your Digital Wallet, pull up your full wallet, login to your wallet and then click the Add to Apple Wallet button on the home screen. This will pull up a QR code. Take a picture of this QR code with your phone and your Apple Wallet Pass will pop up.
+
+
+
+**How do I use my rewards card to make referrals?**
+
+Once you have downloaded your Rewards Card to your phone you can access it any time by going to the Apple Wallet app. On your rewards pass, you will find your unique QR code. When your friends take a picture of your QR code, they will be automatically taken to the website and your referral coupon code will automatically be added to their cart. If they purchase in that session, they will be able to use that discount code and you will get rewarded for the purchase.
+
